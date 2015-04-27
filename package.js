@@ -13,7 +13,7 @@ Package.onUse(function(api) {
 	// ====== BUILT-IN PACKAGES =======
 
 	api.use([
-		'amplify'
+		'amplify@1.0.0'
 		, 'tracker'
 		, 'random'
 		, 'accounts-base'
