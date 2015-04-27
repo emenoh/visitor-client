@@ -1,6 +1,6 @@
 Package.describe({
 	name: 'useful:visitor-client',
-	version: '0.0.1',
+	version: '0.0.2',
 	summary: 'Client-side infrastructure for tracking visitors to your site.',
 	git: '',
 	documentation: 'README.md'
@@ -19,6 +19,7 @@ Package.onUse(function(api) {
 		, 'accounts-base'
 		, 'mongo'
 		, 'templating'
+		, 'underscore'
 	], 'client');
 
 	// ====== 3RD PARTY PACKAGES =======
