@@ -2,7 +2,7 @@ Package.describe({
 	name: 'useful:visitor-client',
 	version: '0.0.2',
 	summary: 'Client-side infrastructure for tracking visitors to your site.',
-	git: '',
+	git: 'https://github.com/usefulio/visitor-client/',
 	documentation: 'README.md'
 });
 
