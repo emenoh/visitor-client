@@ -1,8 +1,8 @@
 Package.describe({
-	name: 'useful:visitor-client',
+	name: 'emenoh:visitor-client',
 	version: '0.0.2',
 	summary: 'Client-side infrastructure for tracking visitors to your site.',
-	git: 'https://github.com/usefulio/visitor-client/',
+	git: 'https://github.com/emenoh/visitor-client/',
 	documentation: 'README.md'
 });
 
